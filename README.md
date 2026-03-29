@@ -12,4 +12,8 @@ To launch Perlin Noise demo, run
 
 `python3 perlin_noise_explained_gradio.py`
 
+To launch cave generator, run
+
+`python3 cave_gradio.py`
+
 Happy hacking!
